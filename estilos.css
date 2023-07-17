@@ -1,0 +1,25 @@
+:root{
+
+    background-color: blue;
+
+
+}
+
+.p{
+    align-items: center;
+    justify-items: center;
+    display: flex;
+}
+
+.label{
+
+    align-items: center;
+    justify-items: center;
+    display: flex;
+}
+
+.textarea{
+    align-items: center;
+    justify-items: center;
+    display: flex;
+}
